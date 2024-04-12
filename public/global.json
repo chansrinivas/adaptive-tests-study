@@ -50,6 +50,9 @@
         },
         "demo-image": {
             "path": "demo-image/config.json"
+        },
+        "basic-study": {
+            "path": "basic-study/config.json"
         }
     }
 }
