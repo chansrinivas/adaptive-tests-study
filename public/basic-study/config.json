@@ -16,7 +16,11 @@
     },
     "uiConfig": {
         "contactEmail": "test@test.com",
+<<<<<<< HEAD
         "helpTextPath": "basic-study/assets/help.md",
+=======
+        "helpTextPath": "basic-questionnaire-study/assets/help.md",
+>>>>>>> 6020651eb08c1b5d854e7b7b15104347f0173724
         "logoPath": "revisitAssets/revisitLogoSquare.svg",
         "withProgressBar": true,
         "autoDownloadStudy": false,
@@ -25,7 +29,11 @@
     "components": {
         "introduction": {
             "type": "markdown",
+<<<<<<< HEAD
             "path": "basic-study/assets/introduction.md",
+=======
+            "path": "basic-questionnaire-study/assets/introduction.md",
+>>>>>>> 6020651eb08c1b5d854e7b7b15104347f0173724
             "response": []
         },
         "first-question-set": {
@@ -86,4 +94,8 @@
             "second-question-set"
         ]
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6020651eb08c1b5d854e7b7b15104347f0173724
